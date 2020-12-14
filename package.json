@@ -9,5 +9,16 @@
   },
   "dependencies": {
     "express": "^4.16.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelcolletti/node-lh-web.git"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaelcolletti/node-lh-web/issues"
+  },
+  "homepage": "https://github.com/michaelcolletti/node-lh-web#readme"
 }
