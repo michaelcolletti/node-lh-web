@@ -1,12 +1,12 @@
-# H1 Code Repos
+## Code Repos
 
-## H2 Node: Web Application
+## Node: Web Application
 > Repo: 
 
-## H2 Node: Mobile App
+## Node: Mobile App
 > Repo: 
 
-## H2 IoT and Infrastructure
+## IoT and Infrastructure
 > The layout and flow
 1. Network Devices 
 2. IoT endpoints
